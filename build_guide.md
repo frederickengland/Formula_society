@@ -16,7 +16,7 @@ https://docs.arduino.cc/software/ide/
 Once downloaded and installed the IDE
 create file and name it: controller.ino
 ![alt text](file_name.png)
-To open the file it'll ask you to create a folder, press yes. Then you should be in the IDE there you can copy and paste the code from here: https://github.falmouth.ac.uk/FE312842/Formula-Society-Stuff/blob/main/code/arduino_code/arduino_code.ino
+To open the file it'll ask you to create a folder, press yes. Then you should be in the IDE there you can copy and paste the code from [here](https://github.com/frederickengland/Formula_society/blob/main/code/arduino_code/arduino_code.ino)
 when you are ready press the tick and the arrow and it should be uploaded to the arduino.
 #### Step 4 testing
 Test components, motors should turn more on one side based on where the dial is turned.
