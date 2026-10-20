@@ -4,4 +4,4 @@ Last week we learnt how to control 3.2volt motors with steering inputs, this wee
 # Concerns
 So upload the code to the arduino then plug the usb-b cable into the power supply so that if anything goes wrong, it's on the pwr supply and not the laptop.
 ## Step 1 - Configuration
-![pic](tinkercad.png)
+![pic](tinkercd.png)
