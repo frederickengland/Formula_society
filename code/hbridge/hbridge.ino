@@ -1,6 +1,7 @@
 #define enA 6
-#define in1 3
 #define in2 5
+#define in1 3
+
 
 const int potPin = A0;
 
